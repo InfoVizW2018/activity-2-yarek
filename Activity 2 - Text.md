@@ -7,26 +7,26 @@ See the "Activity 2 - Design" file.
 
 ### What:
 
-A visualisation proposal for the SeaSpan vessel schedule.
-DataSet type given: Table
-Attribute types:
-	- Categorical: Vessel names, destination names;
-	- Ordered Quantitative Cyclic: Time.
+A visualisation proposal for the SeaSpan vessel schedule. <br/>
+DataSet type given: Table <br/>
+Attribute types: <br/>
+	- Categorical: Vessel names, destination names; <br/>
+	- Ordered Quantitative Cyclic: Time. <br/>
 ### Why:
 
-Provides a better visual overview of what vessels are going to what destination, with what load and at what given times.
-This draft was designed with the SeaSpan employees in mind and probably the additional data it provides wouldn’t be very practical for the passengers themselves.
-Actions:
-	- Present: present the original data in a more visual way;
-	- Derive: derive results from the original tables;
-	- Lookup: should be easier to just look up the needed data, since the location and the targets are known.
+Provides a better visual overview of what vessels are going to what destination, with what load and at what given times. <br/>
+This draft was designed with the SeaSpan employees in mind and probably the additional data it provides wouldn’t be very practical for the passengers themselves. <br/>
+Actions: <br/>
+	- Present: present the original data in a more visual way; <br/>
+	- Derive: derive results from the original tables; <br/>
+	- Lookup: should be easier to just look up the needed data, since the location and the targets are known. <br/>
 
 ### How:
 
-Utilize the table concept with additional data represented by colours and symbols.
-	- Order: order data by days of the week and time;
-	- Colour: use colour to represent the different vessels;
-	- Motion: show motion of the vessels to determine the direction of the trip.
+Utilize the table concept with additional data represented by colours and symbols. <br/>
+	- Order: order data by days of the week and time; <br/>
+	- Colour: use colour to represent the different vessels; <br/>
+	- Motion: show motion of the vessels to determine the direction of the trip. <br/>
   
 ### Pitfalls:
 
