@@ -30,8 +30,8 @@ Utilize the table concept with additional data represented by colours and symbol
   
 ### Pitfalls:
 
-PF4: The data for the load is not available in the initial tables;
-PF6: For users, it’s easier to just type in their destination rather than looking at the tables, so only might be useful for the stakeholders;
-PF7: No previous experience in visualizing data;
-PF9: The tables might be inconvenient to look at, but they still work and if data gets too big, the visualization might get a bit cluttered (e.g.: colours will blend);
-PF20: Doesn’t give any information about the berths, putting them inside the vessel bars might pollute the visuals.
+PF4: The data for the load is not available in the initial tables; <br/>
+PF6: For users, it’s easier to just type in their destination rather than looking at the tables, so only might be useful for the stakeholders; <br/>
+PF7: No previous experience in visualizing data; <br/>
+PF9: The tables might be inconvenient to look at, but they still work and if data gets too big, the visualization might get a bit cluttered (e.g.: colours will blend); <br/>
+PF20: Doesn’t give any information about the berths, putting them inside the vessel bars might pollute the visuals. <br/>
